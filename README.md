@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Akshay Yewle @akshayyewle
-- 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Engineering R&D | 
+- 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
 - ⚒️ Python | R | VSCode | Excel | PowerBI | Tableau | Tensorflow | Sklearn | Azure |
 - ⚙️ Business | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
-- 📫 How to reach me akshayyewle@gmail.com
+- 📨 Email: akshayyewle@gmail.com
 
 **Social Media**
-***LinkedIn***
+- **LinkedIn**
 
 ![](https://komarev.com/ghpvc/?username=akshayyewle&color=dc143c&style=flat-square&label=PROFILE+VIEWS)
 
