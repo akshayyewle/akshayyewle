@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Yewle 
 - 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
-- ⚒️ Python | R | VSCode | Excel | PowerBI | Tableau | Tensorflow | Sklearn |
+- ⚒️ Python | R | SQL | Excel | PowerBI | Tableau | VSCode | Tensorflow | Sklearn | OpenCV
 - 🌩️ Azure | AWS | Google Cloud |
 - ⚙️ Business | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
 - 📨 Email: akshayyewle@gmail.com
