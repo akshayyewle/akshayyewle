@@ -4,8 +4,8 @@
 - ⚙️ Business | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
 - 📫 How to reach me akshayyewle@gmail.com
 
-#**Social Media**
-LinkedIn
+**Social Media**
+***LinkedIn***
 
 ![](https://komarev.com/ghpvc/?username=akshayyewle&color=dc143c&style=flat-square&label=PROFILE+VIEWS)
 
