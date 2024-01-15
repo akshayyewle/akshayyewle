@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Akshay Yewle @akshayyewle
 - 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
-- ⚒️ Python | R | VSCode | Excel | PowerBI | Tableau | Tensorflow [image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})  | Sklearn | Azure |
+- ⚒️ Python | R | VSCode | Excel | PowerBI | Tableau | Tensorflow ![image]({https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white})  | Sklearn | Azure |
 - ⚙️ Business | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
 - 📨 Email: akshayyewle@gmail.com
 
