@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Akshay Yewle @akshayyewle
+- 👋 Hi, I’m Akshay Yewle 
 - 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
 - ⚒️ Python | R | VSCode | Excel | PowerBI | Tableau | Tensorflow | Sklearn |
 - 🌩️ Azure | AWS | Google Cloud |
