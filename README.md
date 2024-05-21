@@ -2,7 +2,7 @@
 - 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
 - ⚒️ Data Tools: | Python | R | SQL | Excel | VSCode | Numpy | Pandas | Matplotlib | Seaborn | Plotly |
 - 🪙 Business Intelligence: | PowerBI | Tableau | DAX |
-- 🐍 Machine Learning:| Tensorflow | Sklearn | OpenCV | Rasterio | Google Earth Engine | Microsoft PC | 
+- 🤖 Machine Learning:| Tensorflow | Sklearn | OpenCV | Rasterio | Google Earth Engine | Microsoft PC | 
 - 📀 Database Systems: | SQLite | PostgreSQL | Microsoft SQL | MySQL | 
 - 🌩️ Cloud Services: | Azure | AWS |
 - ⚙️ Domains: | Business Analytics | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
