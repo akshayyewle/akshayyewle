@@ -1,10 +1,10 @@
 - 👋 Hi, I’m Akshay Yewle 
-- 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D | Machine Design | Project Management |
-- ⚒️ Data Tools: | Python | R | SQL | Excel | VSCode | Numpy | Pandas | Matplotlib | Seaborn | Plotly |
+- 🧑‍💻 Data Analyst | Data Scientist | Business Analyst | Technology R&D |
+- ⚒️ Data Tools: | Python | SQL | Excel | VSCode |
 - 🪙 Business Intelligence: | PowerBI | Tableau | DAX |
-- 🤖 Machine Learning:| Tensorflow | Sklearn | OpenCV | Rasterio | Google Earth Engine | Microsoft PC | 
-- 📀 Database Systems: | SQLite | PostgreSQL | Microsoft SQL | MySQL | 
-- 🌩️ Cloud Services: | Azure | AWS |
+- 🤖 Machine Learning:| Tensorflow | Sklearn | OpenCV | Rasterio |
+- 📀 Database Systems: | SQLite | PostgreSQL | Microsoft SQL | MongoDB | Azure Databricks |
+- 🌩️ Cloud Services: | Azure |
 - ⚙️ Domains: | Business Analytics | Machine Vision | Data Analytics | Machine Learning | AI | Geospatial 
 - 📨 Email: akshayyewle@gmail.com
 
